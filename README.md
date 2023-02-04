@@ -11,26 +11,6 @@ So, we will do our project to try YOLO V7 for him by choosing random shots from 
 
 Video Link: https://drive.google.com/file/d/1b9EkXpIe88FPChibsv_dv-Zdf4nEoZ-R/view?usp=share_link
 
-==========================================================================
-
-A brief about the notebook:
-
-1-Creating Directory
-
-2-Cloning YoloV7 Repository
-
-3-Unzipping Data
-
-4-Checking for GPU
-
-5-Downloading Weights
-
-6-Training YOLO
-
-7-Detection
-
-8-Zipping the whole project
-
 ===========================================================================
 
 Results:
