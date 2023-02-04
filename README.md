@@ -33,7 +33,7 @@ A brief about the notebook:
 
 ===========================================================================
 
-Some Screenshots:
+Results:
 
 ![](Output/img1.png)
 
